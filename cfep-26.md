@@ -6,7 +6,7 @@
 <tr><td> Created </td><td> Jun 13, 2025</td></tr>
 <tr><td> Updated </td><td> Jun 13, 2025</td></tr>
 <tr><td> Discussion </td><td> NA </td></tr>
-<tr><td> Implementation </td><td> link to the PR for the implementation, NA if not availble </td></tr>
+<tr><td> Implementation </td><td> NA </td></tr>
 </table>
 
 ## Abstract
