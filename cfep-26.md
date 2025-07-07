@@ -12,7 +12,7 @@
 ## Abstract
 
 This CFEP proposes a policy for how to spend unrestricted conda-forge project funds.
-It aims to provide a set of transparent principles and guidelines for decision-making
+It aims to provide a set of principles and guidelines for decision-making
 around the transparent use of and administration of these funds, ensuring that they are used
 in a way that benefits the conda-forge community.
 
