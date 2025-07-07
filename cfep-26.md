@@ -21,15 +21,17 @@ in a way that benefits the conda-forge community.
 conda-forge is a NumFOCUS (Austin, TX based non-profit 501(c)(3)) fiscally sponsored project,
 as such, the conda-forge project has to align with accounting and legal regulations for US-based non-profits.
 Under these considerations, non-profit donations are classified into two categories:
-**unrestricted funds** which may be used for any legal purpose appropriate to the
-organization and **restricted funds**, monies set aside for a particular purpose or
+
+- **unrestricted funds** which may be used for any legal purpose appropriate to the
+organization.
+- **restricted funds**, money set aside for a particular purpose or
 program (for example, project-specific deliverables, educational programs, etc.).
 
 Up to now, conda-forge remains a largely volunteer-run project without significant
 amounts of unrestricted funds (either from individual donations or corporate sponsorships).
 Thus, robust policies for spending these funds have not yet been critical to the project.
 However, as the conda-forge project grows there is also the potential for increased
-Donations and grants are going directly to the project.
+donations and grants going directly to the project.
 Therefore, it is essential to establish clear, transparent, and fair principles for how
 unrestricted funds can be used to support the community and its goals.
 Having such principles and processes in place will make it easier to attract and manage
@@ -65,7 +67,7 @@ more volunteers and enhance their participation in the project.
 From a top-level the approach for spending conda-forge project funds is to:
 
 1. Define *what* to fund
-2. Identify a suitable person to carry out the work
+2. Identify a suitable person or team to carry out the work
 3. Determine a fair compensation for the work
 
 ### Defining what to fund
@@ -73,7 +75,7 @@ From a top-level the approach for spending conda-forge project funds is to:
 When assessing what needs funding, the following guidelines should be considered:
 
 1. The work should be aligned with the conda-forge project goals and priorities.
-2. Fund things that are important *and* that, otherwise, won't get done.
+2. Fund things that are important *and* that, otherwise, wouldn't get done.
 3. Plan for sustainability, that is, ensuring that the work can be maintained over time
    without requiring constant funding.
 4. Prioritize work that will benefit the conda-forge community as a whole (contributors,
@@ -84,7 +86,7 @@ When assessing what needs funding, the following guidelines should be considered
    - Community building (e.g., organizing events, workshops, etc.)
    - Documentation and educational materials (e.g., tutorials, guides, etc.)
    - Outreach and communication (e.g., engaging with users, etc.)
-   - Contributor experience and governance (e.g., improving the onboarding process,
+   - Contributor experience and governance (e.g., improving onboarding and offboarding,
      supporting contributors, streamlining processes, etc.)
 6. Consider the impact of the work on other maintainers or core members; consider paid
    time for others to review work if this is expected to take a significant amount of
@@ -95,7 +97,7 @@ yet essential work that nobody likes doing and necessary structural changes to t
 that are too large to be done by a volunteer in a reasonable amount of time.
 
 Funding can be used for items beyond people's time, for example, expenses for in-person
-developer sprints, hosted hardware for benchmarking or specialized development work.
+developer sprints, hosted hardware for packaging or benchmarking, or specialized development work.
 
 ### Whom to pay
 
