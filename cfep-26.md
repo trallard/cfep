@@ -2,7 +2,7 @@
 <table>
 <tr><td> Title </td><td> Spending conda-forge project funds </td>
 <tr><td> Status </td><td> Draft  </td></tr>
-<tr><td> Author(s) </td><td> Tania Allard &lt;taniar.allard@gmail.com&gt;, Jaime Rodríguez Guerra &lt;xxxxxxxxx@gmail.com&gt;</td></tr>
+<tr><td> Author(s) </td><td> Tania Allard &lt;taniar.allard@gmail.com&gt;, Jaime Rodríguez Guerra &lt;jrodriguez@quansight.com&gt;</td></tr>
 <tr><td> Created </td><td> Jun 13, 2025</td></tr>
 <tr><td> Updated </td><td> Jun 13, 2025</td></tr>
 <tr><td> Discussion </td><td> NA </td></tr>
